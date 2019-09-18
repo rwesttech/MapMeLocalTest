@@ -1,0 +1,50 @@
+body	{
+    background-image: url("05_019_15_Using_Mobile_Phone_w_Stylus_in_Coffee_shop.jpg");
+	background-size: 100% 165%;
+	background-repeat: no-repeat;
+}
+nav	{
+  text-align: center;
+}
+nav a	{
+	background-color: transparent;
+	display: inline;
+	color: white;
+	border: 2px;
+	border-radius: 5px;
+    padding: 10px;
+	font-family: arial;
+	text-decoration: none;
+	letter-spacing: 3px;
+	font-size: 75%
+}
+h1	{
+	color: white;
+	font-family: verdana;
+	text-align: center;
+	font-size: 200%
+}
+h2	{
+	color: #ff9933;
+	text-align: center;
+}
+p	{
+	color: white;
+	font-family: arial;
+	text-align: center;
+}
+nav2	{
+  text-align: center;
+}
+nav2 a {
+	background-color: white;
+	display: inline;
+	color: black;
+    text-decoration: none;
+	border: 2px;
+	border-radius: 5px;
+    padding: 10px;
+	font-family: arial;
+	letter-spacing: 1px;
+	font-size: 80%;
+}
